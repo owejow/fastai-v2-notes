@@ -10,7 +10,7 @@ entries:
       title: Overview
       url: /
     - output: web,pdf
-      title: module name here
+      title: metaclass
       url: /metaclass
     output: web
     title: fastai_v2_notes

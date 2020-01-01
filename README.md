@@ -22,3 +22,5 @@
 Explore the notebooks in the nbs/ directory
 
 You can also visit the webpage on github.io
+
+[fastai-v2-notes](https://owejow.github.io/fastai-v2-notes/)
